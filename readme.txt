@@ -4,4 +4,4 @@
 4.How stage work!
 5.Has a new File
 
-Git tracks changes.
+Git tracks changes of files.
