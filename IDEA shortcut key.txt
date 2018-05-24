@@ -1,0 +1,60 @@
+
+Idea实用的快捷键：
+
+ctrl + shift + backSpace ：回到上一个编辑的地方
+
+ctrl + alt + （left）：回到上个光标浏览的地方
+
+ctrl + alt + （right）：回到下一个光标浏览的地方
+
+
+
+alt + 2 ：打开favorite，可以查看书签，收藏的方法或者类
+
+
+F11 ：加书签
+
+ctrl + F11 ： 带标签的书签，ctrl+对应的快捷键回到书签
+
+alt + shift + F ：把类或者方法添加到收藏
+
+
+
+ctrl + N : 查找类
+两次ctrl + N ：查找所有的类，包括依赖里的类。
+
+ctrl + shift + N : 查找文件
+两次ctrl + shift + N : 查找所有的文件，包括依赖里的文件
+
+
+ctrl + shift + alt + N : 查找文件、类以及变量
+两次ctrl + shift + alt + N : 查找所有的文件、类以及变量，包括依赖里的
+
+
+ctrl + shift + f ：在指定的范围搜索字符串
+
+HOME ：跳到行首
+END : 跳到行尾
+
+shift + 方向 ： 选择
+
+ctrl + shift + 方向 ： 选择单词
+
+ctrl + shift + U ：对选中的单词进行大小写切换
+
+
+shift + F6 : 变量重构
+
+ctrl + F6 ：方法重构
+
+
+ctrl + shift + v : 局部变量抽取
+
+ctrl + shift + c : 静态变量抽取
+
+ctrl + shift + f : 成员变量抽取
+
+ctrl + shift + m : 方法抽取
+
+
+
